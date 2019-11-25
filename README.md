@@ -3,7 +3,7 @@
 
 # Les BBLs d'Orange Labs Rennes
 
-Le site d'Orange Labs Rennes fourmille d'experts de domaines variés. Retrouvez la liste des takls que nous serons heureux de donner dans votre entreprise au format "**Brown Bag Lunch**" (BBL)
+Le site d'Orange Labs Rennes fourmille d'experts de domaines variés. Retrouvez la liste des talks que nous serons heureux de donner dans votre entreprise au format "**Brown Bag Lunch**" (BBL)
 
 > Pour plus d'info sur les BBLs et une liste de speakers partout en France : [Brown bag lunch RH France](http://www.brownbaglunch.fr/rh/)
 
@@ -97,3 +97,23 @@ Ensuite, nous construirons **en live**, « from scratch », un système qui clas
 > #### Fabrice Depaulis - Développeur Data-Search
 >
 > ![Fabrice Depaulis](images/fabrice_depaulis.png)
+
+---
+## Pourquoi nous ne ferons plus jamais de java
+```
+#kotlin #java
+```
+
+Si **Java** reste le langage roi sur les JVM serveurs, l’inertie dans l’évolution du **langage** risque de réduire considérablement son attractivité et donc son utilisation à l’avenir.
+Scala avait déjà tenté une percée profitant du retard de Java 8 mais bien que ce langage offre une liste étendue de fonctionnalités, il a échoué en ce qui concerne les temps d’apprentissage et la prise en charge des outils. 
+Les créateurs de  **Kotlin** on voulu créer un **« meilleur langage »** que Java,
+Le pari est réussi et **Kotlin** risque de porter le coup fatal à Java, d’autant que la vraie pépite d'Oracle n'est pas le langage Java, mais bien sa **machine virtuelle**. 
+Nous sommes passés à Kotlin en septembre 2018 et allons tenter de vous exposer pourquoi nous ne reviendrons pas en arrière … 
+
+> #### Fiona Le Montreer - Développeuse Backend
+>
+> ![Fiona Le Montreer](images/fiona_le_montreer.png)
+> 
+> #### Nicolas Bulteau - Architecte
+>
+> ![Nicolas Bulteau](images/nicolas_bulteau.png)
