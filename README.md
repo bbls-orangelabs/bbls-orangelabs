@@ -10,13 +10,15 @@ Le site d'Orange Labs Rennes fourmille d'experts de domaines variés. Retrouvez 
 ---
 
 ## Votre python avance trop lentement ? Venez découvrir comment l'accélérer !
-``` #performance #profiling #python ``` 
+```
+#performance #profiling #pythonw
+``` 
 
 Python est LENT, tout le monde sait ça ... et pourtant il est utilisé dans des domaines très variés, y compris ceux où la performance compte : machine learning, calcul scientifique, analyse de données et services internet massifs ! Mais comment font-ils ?! Nous verrons comment identifier les portions qui ralentissent réellement votre application, puis les différentes techniques, des plus simples aux plus avancées, pour accélérer votre code python. Keywords: cProfile, yappi, timit, cython, numba, pypy, etc.
 
 > #### Pierre Rust - Architecte logiciel
 > 
-> ![Pierre Rust](images/pierre_rust.jpeg)
+> ![Pierre Rust](images/pierre_rust.png)
 
 ---
 
@@ -31,7 +33,7 @@ https://www.youtube.com/watch?v=SLukfn_ucBc, avec présentation du langage, live
 
 > #### Pascal Le Merrer - Développeur
 >
-> ![Pascal Le Merrer](images/pascal_le_merrer.jpeg)
+> ![Pascal Le Merrer](images/pascal_le_merrer.png)
 
 
 ---
@@ -46,7 +48,7 @@ En cherchant à comprendre son fonctionnement, j'ai rapidement trouvé un certai
 
 > ### Florent Vuillemin - Développeur Outils Sécurité
 >
-> ![Florent Vuillemin](images/florent_vuillemin.jpeg)
+> ![Florent Vuillemin](images/florent_vuillemin.png)
 
 
 ---
@@ -59,7 +61,7 @@ Nous verrons comment réaliser une console de jeu avec un puce à partir d'un si
 
 > ### Xavier Moulet
 >
-> ![Xavier Moulet](images/xavier_moulet.jpeg)
+> ![Xavier Moulet](images/xavier_moulet.png)
 
 ---
 
@@ -72,7 +74,7 @@ Pourquoi Electron est-il devenu incroyablement populaire pour développer des ap
 
 > #### Jean-François Cunat - Architecte Logiciel
 >
-> ![Jean-François Cunat](images/jean_francois_cunat.jpeg)
+> ![Jean-François Cunat](images/jean_francois_cunat.png)
 
 
 ---
@@ -94,4 +96,4 @@ Ensuite, nous construirons **en live**, « from scratch », un système qui clas
 
 > #### Fabrice Depaulis - Développeur Data-Search
 >
-> ![Fabrice Depaulis](images/fabrice_depaulis.jpeg)
+> ![Fabrice Depaulis](images/fabrice_depaulis.png)
