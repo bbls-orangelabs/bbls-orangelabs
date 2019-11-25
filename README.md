@@ -10,9 +10,7 @@ Le site d'Orange Labs Rennes fourmille d'experts de domaines variés. Retrouvez 
 ---
 
 ## Votre python avance trop lentement ? Venez découvrir comment l'accélérer !
-```
-#performance #profiling #pythonw
-``` 
+``` #performance #profiling #python ``` 
 
 Python est LENT, tout le monde sait ça ... et pourtant il est utilisé dans des domaines très variés, y compris ceux où la performance compte : machine learning, calcul scientifique, analyse de données et services internet massifs ! Mais comment font-ils ?! Nous verrons comment identifier les portions qui ralentissent réellement votre application, puis les différentes techniques, des plus simples aux plus avancées, pour accélérer votre code python. Keywords: cProfile, yappi, timit, cython, numba, pypy, etc.
 
