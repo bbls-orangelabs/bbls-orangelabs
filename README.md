@@ -117,3 +117,21 @@ Nous sommes passés à Kotlin en septembre 2018 et allons tenter de vous exposer
 > #### Nicolas Bulteau - Architecte
 >
 > ![Nicolas Bulteau](images/nicolas_bulteau.png)
+
+---
+## Démystification du machine learning
+```
+#machine_learning #deep_learning
+```
+
+Vous avez déjà assisté à plusieurs présentations sur le machine  et/ou le deep learning mais vous continuez à vous dire que c'est vraiment pas fait pour vous. 
+Tentez encore une fois votre chance : cette fois, l'espoir réside dans le fait que nous ne sommes ni mathématiciens, ni datascientists, et qu'on se bornera à vous dire comment on s'est intéressé  à la question en passant par une approche "code" (spoiler : c'est plein de live coding !)
+
+> #### Nicolas Bulteau - Architecte
+>
+> ![Nicolas Bulteau](images/nicolas_bulteau.png)
+>
+> #### Fabrice Depaulis - Développeur Data-Search
+>
+> ![Fabrice Depaulis](images/fabrice_depaulis.png)
+
