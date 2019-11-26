@@ -81,7 +81,7 @@ Pourquoi Electron est-il devenu incroyablement populaire pour développer des ap
 ## FastText
 ### ou la solution de l'équation x = cidre - bretagne + bourgogne
 ```
-#machine-learning #natural-language-processing #101
+#machine-learning #natural-language-processing #101 #live_coding
 ```
 
 Analyse de sentiment, détection de spam, reconnaissance de la langue, ... : toutes ces questions correspondent à un même problème de « **classification** ». Un développeur lambda utiliserait naturellement des **expressions régulières** ou du **pattern matching** pour en venir à bout. Mais grâce à la démocratisation du **machine learning**, il est désormais possible de le résoudre en utilisant des algorithmes d'apprentissage automatique performants, sans même s'en rendre compte !
@@ -121,7 +121,7 @@ Nous sommes passés à Kotlin en septembre 2018 et allons tenter de vous exposer
 ---
 ## Démystification du machine learning
 ```
-#machine_learning #deep_learning #101
+#machine_learning #deep_learning #101 #live_coding
 ```
 
 Vous avez déjà assisté à plusieurs présentations sur le machine  et/ou le deep learning mais vous continuez à vous dire que c'est vraiment pas fait pour vous. 
@@ -135,3 +135,29 @@ Tentez encore une fois votre chance : cette fois, l'espoir réside dans le fait 
 >
 > ![Fabrice Depaulis](images/fabrice_depaulis.png)
 
+----
+
+## Codons un DSL pour Elasticsearch en Kotlin 
+```
+#kotlin #dsl #live_coding
+```
+
+Vous rêvez d'interroger votre ElasticSearch avec une syntaxe claire, facile à comprendre et à maintenir ? Vous aimeriez écrire du code qui ressemble à cela : 
+
+```
+val result = search
+{
+    "uuid" keyword should be "2eed0"
+    "sha1" keyword exists
+    "timestamp" keyword must not start with "2019-04-03"
+}
+```
+
+Et oui c'est du code Kotlin, fortement typé !
+Nous vous montrerons les différentes astuces qu'offre Kotlin pour développer un DSL (domain specific language). Et la lecture de votre code n'aura jamais été aussi naturelle !
+A l'issue de ce live coding, vous n'aurez qu'une envie, c'est d'en écrire un pour votre propre cas d'usage ! 
+
+> #### François Gélineau - Développeur
+>
+> ![François Gélineau](images/francois_gelineau.png)
+>
