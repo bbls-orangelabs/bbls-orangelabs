@@ -81,7 +81,7 @@ Pourquoi Electron est-il devenu incroyablement populaire pour développer des ap
 ## FastText
 ### ou la solution de l'équation x = cidre - bretagne + bourgogne
 ```
-#machine-learning #natural-language-processing
+#machine-learning #natural-language-processing #101
 ```
 
 Analyse de sentiment, détection de spam, reconnaissance de la langue, ... : toutes ces questions correspondent à un même problème de « **classification** ». Un développeur lambda utiliserait naturellement des **expressions régulières** ou du **pattern matching** pour en venir à bout. Mais grâce à la démocratisation du **machine learning**, il est désormais possible de le résoudre en utilisant des algorithmes d'apprentissage automatique performants, sans même s'en rendre compte !
@@ -121,7 +121,7 @@ Nous sommes passés à Kotlin en septembre 2018 et allons tenter de vous exposer
 ---
 ## Démystification du machine learning
 ```
-#machine_learning #deep_learning
+#machine_learning #deep_learning #101
 ```
 
 Vous avez déjà assisté à plusieurs présentations sur le machine  et/ou le deep learning mais vous continuez à vous dire que c'est vraiment pas fait pour vous. 
