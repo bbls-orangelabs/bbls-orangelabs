@@ -161,3 +161,23 @@ A l'issue de ce live coding, vous n'aurez qu'une envie, c'est d'en écrire un po
 >
 > ![François Gélineau](images/francois_gelineau.png)
 >
+----
+
+## I � Unicode
+ 
+```
+#unicode #utf-8 #encodage
+```
+
+Quoi de plus banal et de plus simple que du texte ? Une "String" dans votre code, et vous gérez du texte, tranquille. 
+Mais à bien y réfléchir, ce fichu média humain qu'est l'écriture est-il aussi immédiat que ça pour nos chères machines ? 
+
+Spoiler : non ! 
+
+Et on verra ensemble pourquoi et comment on s'y prend pour s'en sortir.
+
+
+> #### David Blanchet - Développeur
+>
+> ![David Blanchet](images/david_blanchet.png)
+>
